@@ -1,4 +1,4 @@
-# Network Eye
+# Network Eye (The Incrediable Spy)
 * Windows & Linux Desktop Application for Network Management
 * Because of Patent rights just I am attaching the Powerpoint presentation and SRS document. 
 * Please look into that for further details and kindly check below demo project images
