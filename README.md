@@ -15,8 +15,7 @@
 [![N|Solid](https://drive.google.com/uc?export=download&id=1IH_yyG8_4ck67XBFnbFl64IW1FVyliOL)]()
 [![N|Solid](https://drive.google.com/uc?export=download&id=1-IR9Mfjw4-8G87ObPKcovkuqiMtoTJ9u)]()
 [![N|Solid](https://drive.google.com/uc?export=download&id=1_jb7d7NC9d4Nrk0E1G-RTpe2bRCjs8MG)]()
-[![N|Solid]()]()
-[![N|Solid]()]()
+
 
 ## Authors
 
