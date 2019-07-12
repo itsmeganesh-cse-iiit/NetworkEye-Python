@@ -5,9 +5,8 @@ Please look into that for further details and kindly check below demo project im
 
 ## Documents
 
-* **Power point presentation**  -  [Click here for PPT](https://drive.google.com/open?id=0B71enYDYlArUUXZkdEpMUHQwT050Z1RmNHpjRnlYS0RaRVBn)
-* **SRS Document**  -  [Click here for SRS ](https://drive.google.com/open?id=0B71enYDYlArUN2JOVGx2NVBtaExwemQ3MDZQeDBTZ2h3czNv)
-
+* **Power point presentation**  -  <a href="https://drive.google.com/open?id=0B71enYDYlArUUXZkdEpMUHQwT050Z1RmNHpjRnlYS0RaRVBn" target="_blank">Click here for PPT</a>
+* **SRS Document**  -  <a href="https://drive.google.com/open?id=0B71enYDYlArUN2JOVGx2NVBtaExwemQ3MDZQeDBTZ2h3czNv" target="_blank">Click here for SRS</a>
 
 ###  Demo
 
